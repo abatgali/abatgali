@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on building a restaurant-website
 - 🌱 I’m currently learning react.js
-- 💬 Ask me about JiuJitsu, F1, life in general or anything really...
+- 💬 Ask me about web development, F1, Jiu-Jitsu or life in general or anything really
 - 📫 Reach out to me via: <a href="mailto:anantb77@gmail.com">Email</a>
 <!--- ⚡ Fun fact: ...-->
 <!--- 👯 I’m looking to collaborate on ... -->
