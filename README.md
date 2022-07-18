@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 I’m currently working on building a restaurant-website
-- 🌱 I’m currently learning react.js
+- 🌱 Trying to get through CS50W
 - 💬 Ask me about web development, F1, Jiu-Jitsu or life in general or anything really
 - 📫 Reach out to me via: <a href="mailto:anantb77@gmail.com">Email</a>
 <!--- ⚡ Fun fact: ...-->
