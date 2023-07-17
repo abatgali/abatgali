@@ -5,6 +5,6 @@
 </div>
 
 
-- 📫 Reach out to me via: <a href="mailto:anantb77@gmail.com">Email</a>
+- 📫 Reach out to me via: <a href="mailto:anantb7@proton.me">Email</a>
 <!--- ⚡ Fun fact: ...-->
 <!--- 👯 I’m looking to collaborate on ... -->
