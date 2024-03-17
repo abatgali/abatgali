@@ -8,6 +8,6 @@
 </div>
 <hr>
 
-- 📫 Reach out to me via: <a href="mailto:anantb7@proton.me">Email</a>
+- 📫 Reach out to me via: <a href="mailto:anantb7@proton.me">Email</a> or on <a href="https://twitter.com/AnantBatgali">X</a>
 <!--- ⚡ Fun fact: ...-->
 <!--- 👯 I’m looking to collaborate on ... -->
